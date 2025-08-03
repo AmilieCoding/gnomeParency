@@ -5,6 +5,9 @@ A mirror of a now took down gnome transparency GTK edit. Originally designed by:
 # To Install
 - Copy gtk.css to `~/.config/gtk-3.0` and `~.config/gtk-4.0`. (You can append it to the top or bottom of an existing theme. EG - The Everforest Theme)
 - Enable BlurMyShell.
+- Set it to BLUR APPLICATIONS.
+- Enable blur all except blacklisted.
+- Blacklist ones you want to not blur.
 - Restart Gnome Shell.
 ---
 # What I use it with.
