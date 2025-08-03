@@ -1,0 +1,40 @@
+/* Originally designed by: Mohammad Mahdi Tayebi
+ * Mirrored back to GitHub by: AmilieCoding
+ * 
+ * To apply transparent sidebar. copy this file into ~/.config/gtk-4.0/gtk.css and if 
+ * you use adw-gtk3 theme you can add it to ~/.config/gtk-3.0/gtk.css as well
+ * 
+ * Use blur my shell extension to add blur effect behind the transparent part of windows
+*/
+
+/* Transparent Headerbar */
+overlay-split-view revealer.raised.top-bar {
+  background: alpha(@window_bg_color, 0);
+  box-shadow: none;
+}
+
+overlay-split-view headerbar.titlebar {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+
+/* Transparent Sidebar */
+window {
+  background: alpha(@window_bg_color, 0.8);
+}
+
+.sidebar-pane,
+.sidebar,
+.navigation-sidebar {
+  background: transparent;
+}
+
+/* Global style */
+.content-pane {
+  background: @view_bg_color;
+}
+
+widget.background.overview {
+  background: transparent;
+}
