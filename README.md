@@ -1,5 +1,5 @@
 # gnomeParency
-A mirror of a now took down gnome transparency GTK edit.
+A mirror of a now took down gnome transparency GTK edit. Originally designed by: Mohammad Mahdi Tayebi. Continues to function with GNOME 48.
 
 ---
 # To Install
