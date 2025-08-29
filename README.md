@@ -15,3 +15,4 @@ A mirror of a now took down gnome transparency GTK edit. Originally designed by:
 - Theme: https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme
 - Wallpaper: https://github.com/Apeiros-46B/everforest-walls/blob/main/nature/fog_forest_1.png
 - BlurMyShell: https://github.com/aunetx/blur-my-shell 
+- My Custom Theme Full Setup Which You Can Find Here: https://discord.gg/QA4Q2pKTGY
